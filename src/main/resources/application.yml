@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: JWS Username
+    password: somepasssssdsads
+    dburl: Some URL
+
+---
+spring:
+    profiles: de
+guru:
+  jms:
+    username: HDUSAHDSUADHUAHDSU
